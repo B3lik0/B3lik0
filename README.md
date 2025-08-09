@@ -1,17 +1,49 @@
-#Jose Martinez
+# Jose Martinez
 
 ## JR Web Developer
 
-Web developer with +2 years of experience.
+Desarrollador web con más de 2 años de experiencia construyendo aplicaciones y servicios con JavaScript/Node.js/Laravel, HTML5 y CSS3. Me enfoco en escribir código claro, mantenible y en aprender continuamente.
 
-<a aligh="left" href="https://B3lik0.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="25" height="25" /></a>in progress..
-
-
-
-<a aligh="left" href="https://www.linkedin.com/in/pamsho" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="25" height="25" /></a><a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a><a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a><a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a><a href="https://www.nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="Nodejs" width="25" height="25" /></a><a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a>
+### Tecnologías
 
 
-![Code_Wars](https://www.codewars.com/users/B3lik0/badges/large)
+Frontend
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+Backend
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+Herramientas / DevOps
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&6logo=github&6logoColor=white)](https://github.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&6logo=docker&6logoColor=white)](https://www.docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&6logo=linux&6logoColor=black)](https://www.linux.org)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&6logo=n8n&6logoColor=white)](https://n8n.io)
+[![AI](https://img.shields.io/badge/IA-412991?style=for-the-badge&6logo=openai&6logoColor=white)](#)
+
+### Proyectos recientes
+- Ver todos los repos actualizados: https://github.com/B3lik0?tab=repositories&sort=updated
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=B3lik0&count_private=true&theme=dark&show_icons=true)
+### Estadísticas y logros
+
+![Codewars](https://www.codewars.com/users/B3lik0/badges/large)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B3lik0&count_private=true&theme=dark&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B3lik0&layout=compact&theme=dark)
+
+### Contacto
+- LinkedIn: https://www.linkedin.com/in/jose-g-martinez-s-56ba21b5/
+- Mail: joseg.msolis@gmail.com
